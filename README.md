@@ -8,14 +8,20 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tahlilmahfuz&label=Profile%20views&color=0e75b6&style=flat" alt="tahlilmahfuz" /> </p>
+<hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tahlil-2b5617301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k.m.tahlil mahfuz faruk" height="30" width="40" /></a>
+<h2 align="center">📞Profiles📞</h2>
+<br/>
+<div align="center">
+    <a href="https://www.linkedin.com/in/tahlil-2b5617301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k.m.tahlil mahfuz faruk" height="30" width="40" /></a>
 <a href="https://fb.com/tahlil mahfuz faiyaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tahlil mahfuz faiyaz" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/TahlilMahfuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tahlilmahfuz" height="30" width="40" /></a>
 <a href="https://leetcode.com/TahlilMahfuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tahlilmahfuz" height="30" width="40" /></a>
-</p>
+
+</div>
+
+<br/>
+<hr/>
 
 <hr/>
  
