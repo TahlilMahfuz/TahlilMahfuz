@@ -1,7 +1,15 @@
 <h1 align="center">Hello there!👋 I'm K.M.Tahlil Mahfuz Faruk.</h1>
-<h3 align="center">I am an Undergrad Software Engineering Student at IUT.Welcome to my Github😎</h3>
+<h3 align="center">I am an Undergrad Software Engineering Student at IUT.</h3>
+<p><h3 align="center">Welcome to my Github😎</h3></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahlilmahfuz&label=Profile%20views&color=0e75b6&style=flat" alt="tahlilmahfuz" /> </p>
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<br>
+<img alt="Coder GIF" height=500 width=1050 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tahlilmahfuz&label=Profile%20views&color=0e75b6&style=flat" alt="tahlilmahfuz" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
