@@ -1,6 +1,9 @@
-<h1 align="center">Hello there!👋 I'm K.M.Tahlil Mahfuz Faruk.</h1>
-<h3 align="center">I am an Undergrad Software Engineering Student at IUT.</h3>
-<p><h3 align="center">Welcome to my Github😎</h3></p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hello+There!+👋+I'm+Tahlil!;Welcome+To+My+Github😀" />
+</h1>
+
+<h3 align="center">Undergrad Software Engineering Student at IUT.</h3>
+
 
 <img alt="Coder GIF" height=500 width=1050 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
